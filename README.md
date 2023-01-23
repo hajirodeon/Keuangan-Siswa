@@ -8,7 +8,16 @@ Dibuat dengan Php Native Php 7.4.10 dan Mysql/MariaDB.
 Pastikan gunakan Webserver XAMPP PHP 7.4.10 .
 
 
+---
 
+* Untuk File .SQL bisa import dari Folder /db
+
+* File Konfigurasi di /inc/config.php
+
+
+---
+
+Login Admin, Silahkan gunakan User : admin dan Password : admin
 
 
 
@@ -17,6 +26,21 @@ Pastikan gunakan Webserver XAMPP PHP 7.4.10 .
 Silahkan bisa unduh di : 
 
 https://gitlab.com/hajirodeon/keuangan-siswa
+
+
+---
+
+
+Bila ada kesulitan atau hambatan atau ingin request custom konten berbayar, 
+
+silahkan bisa kontak via email : hajirodeon@gmail.com 
+
+atau WA : 081-829-88-54
+
+
+
+
+
 
 
 
